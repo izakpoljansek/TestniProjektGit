@@ -10,3 +10,4 @@ print('nova vrstica v veja-nff')
 print('To je sprememba v veja-nff-test')
 
 print('Main sprememba')
+print('Rebase test')
