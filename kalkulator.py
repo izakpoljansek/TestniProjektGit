@@ -11,3 +11,4 @@ print('To je sprememba v veja-nff-test')
 
 print('Main sprememba')
 print('Rebase test')
+print('Cherry test')
