@@ -6,3 +6,4 @@ print('Nova funkcionalnost')
 <<<<<<< HEAD
 print('verzija B')
 print('nova vrstica v main')
+print('To je sprememba v main')
