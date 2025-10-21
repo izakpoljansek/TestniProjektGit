@@ -9,3 +9,4 @@ print('To je sprememba v main')
 print('nova vrstica v veja-nff')
 print('To je sprememba v veja-nff-test')
 
+print('Main sprememba')
