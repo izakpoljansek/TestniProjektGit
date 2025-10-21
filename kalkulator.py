@@ -3,3 +3,4 @@ def sestej(a, b): return a + b
 //echo //
 //Kaj?
 print('Nova funkcionalnost')
+print('verzija B')
