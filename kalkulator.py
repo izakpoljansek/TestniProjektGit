@@ -6,3 +6,5 @@ print('Nova funkcionalnost')
 <<<<<<< HEAD
 print('verzija B')
 print('nova vrstica v main')
+print('nova vrstica v veja-nff')
+print('To je sprememba v veja-nff-test')
